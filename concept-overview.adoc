@@ -1,0 +1,54 @@
+---
+sidebar: sidebar 
+permalink: concept-overview.html 
+keywords: overview, bluexp, integration, cloud manager, digital advisor, active iq, menu 
+summary: 'NetApp BlueXP è un"evoluzione di Cloud Manager. BlueXP è un piano di controllo unificato che offre un"esperienza multicloud ibrida per servizi di storage e dati in ambienti on-premise e cloud.' 
+---
+= Benvenuti in NetApp BlueXP
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+NetApp BlueXP è un'evoluzione di Cloud Manager. BlueXP è un piano di controllo unificato che offre un'esperienza multicloud ibrida per servizi di storage e dati in ambienti on-premise e cloud.
+
+
+
+== Esperienza di gestione unificata
+
+BlueXP consente di gestire tutte le risorse di storage e dati da un'unica interfaccia.
+
+È possibile utilizzare BlueXP per creare e amministrare lo storage cloud (ad esempio, Cloud Volumes ONTAP e Azure NetApp Files), per spostare, proteggere e analizzare i dati e per controllare molti dispositivi storage on-premise e edge.
+
+* https://cloud.netapp.com["Scopri di più dal sito Web BlueXP"^]
+* https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["Inizia a utilizzare BlueXP"^]
+
+
+
+
+== Nuovo menu di navigazione
+
+Nel menu di navigazione di BlueXP, i servizi sono ora organizzati in base alle categorie e sono denominati in base alle loro funzionalità. Ad esempio, è possibile accedere al backup e ripristino BlueXP (Cloud Backup) dalla categoria *protezione*.
+
+image:screenshot-navigation-menu.png["Schermata del menu di navigazione di BlueXP che mostra categorie come Storage e Health."]
+
+
+
+== Integrazioni di nuovi prodotti
+
+* Ora puoi gestire i bucket Amazon S3 negli account AWS in cui è installato il connettore.
+* Ora puoi gestire più sistemi storage on-premise, come e-Series e StorageGRID.
+* Ora è possibile utilizzare i servizi dati precedentemente disponibili solo come servizio standalone con un'interfaccia utente separata, come BlueXP Digital Advisor (Active IQ).
+
+
+*Ulteriori informazioni*
+
+* https://docs.netapp.com/us-en/bluexp-s3-storage/index.html["Gestire i bucket Amazon S3"^]
+* https://docs.netapp.com/us-en/cloud-manager-e-series/index.html["Gestire i sistemi storage e-Series"^]
+* https://docs.netapp.com/us-en/cloud-manager-storagegrid/index.html["Gestire i sistemi storage StorageGRID"^]
+* https://docs.netapp.com/us-en/active-iq/digital-advisor-integration-with-bluexp.html["Scopri di più sull'integrazione di Digital Advisor"^]
+
