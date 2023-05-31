@@ -2,14 +2,14 @@
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cloud-manager-family | NetApp Documentation</title>
-    <atom:link href="https://docs.netapp.com/it-it/cloud-manager-family/feed.xml" rel="self" type="application/rss+xml"/>
-    <link>https://docs.netapp.com/it-it/cloud-manager-family</link>
+    <title>bluexp-family | NetApp Documentation</title>
+    <atom:link href="https://docs.netapp.com/it-it/bluexp-family/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://docs.netapp.com/it-it/bluexp-family</link>
     <description>The latest updates from NetApp Documentation</description>
     <language>it-it</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 24 May 2023 16:00:53 +0000</pubDate>
-    <lastBuildDate>Wed, 24 May 2023 16:00:53 +0000</lastBuildDate>
+    <pubDate>Wed, 31 May 2023 13:51:03 +0000</pubDate>
+    <lastBuildDate>Wed, 31 May 2023 13:51:03 +0000</lastBuildDate>
     
   </channel>
 </rss>
