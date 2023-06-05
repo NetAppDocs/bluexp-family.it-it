@@ -245,4 +245,6 @@
   <block id="724a3079d3074b0468d00facd32bb57e" category="sidebar">Identifica il numero di file, la profondità e la larghezza degli alberi dei file system, i file più grandi e molto altro nel tuo ambiente di storage.</block>
   <block id="ff45d71e69fb5930de79de7c94326d7b" category="sidebar">Caching dei volumi</block>
   <block id="d0e71bba7a9d538f008b05b19274bfe1" category="sidebar">Creare un volume cache scrivibile per accelerare l'accesso ai dati o trasferire il traffico dai volumi ad accesso elevato.</block>
+  <block id="2b3e8f910d66604cd77f93b333670468" category="sidebar">Storage Azure Blob</block>
+  <block id="fbdd0eee7f6077dcd3ac16cc88517d62" category="sidebar">Scopri e gestisci lo storage Azure Blob nelle tue sottoscrizioni Azure.</block>
 </blocks>
