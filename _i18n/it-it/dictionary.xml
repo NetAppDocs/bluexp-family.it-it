@@ -243,4 +243,6 @@
   <block id="c7b7a5ae9f37fd7d24e4d641b9186fe9" category="paragraph">Questo errore potrebbe indicare che l'account NSS e la società di registrazione a cui è associato non sono la stessa società di registrazione per il numero di serie dell'account BlueXP (ad es. 960xxxx) o il numero di serie dell'ambiente di lavoro. È possibile richiedere assistenza utilizzando una delle seguenti opzioni:</block>
   <block id="ac7b3cf10ea08c788a374e0291742517" category="sidebar">Report sulla migrazione</block>
   <block id="724a3079d3074b0468d00facd32bb57e" category="sidebar">Identifica il numero di file, la profondità e la larghezza degli alberi dei file system, i file più grandi e molto altro nel tuo ambiente di storage.</block>
+  <block id="ff45d71e69fb5930de79de7c94326d7b" category="sidebar">Caching dei volumi</block>
+  <block id="d0e71bba7a9d538f008b05b19274bfe1" category="sidebar">Creare un volume cache scrivibile per accelerare l'accesso ai dati o trasferire il traffico dai volumi ad accesso elevato.</block>
 </blocks>
