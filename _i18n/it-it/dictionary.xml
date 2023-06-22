@@ -247,4 +247,6 @@
   <block id="d0e71bba7a9d538f008b05b19274bfe1" category="sidebar">Creare un volume cache scrivibile per accelerare l'accesso ai dati o trasferire il traffico dai volumi ad accesso elevato.</block>
   <block id="2b3e8f910d66604cd77f93b333670468" category="sidebar">Storage Azure Blob</block>
   <block id="fbdd0eee7f6077dcd3ac16cc88517d62" category="sidebar">Scopri e gestisci lo storage Azure Blob nelle tue sottoscrizioni Azure.</block>
+  <block id="072d1a387472fb47fdfa33e48ff08ffd" category="sidebar">Dashboard sulla sostenibilità</block>
+  <block id="bc955e300c1eb565285b1d3030f79321" category="sidebar">Analizza la sostenibilità del tuo sistema storage.</block>
 </blocks>
