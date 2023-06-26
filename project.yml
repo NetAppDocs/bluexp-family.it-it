@@ -185,8 +185,8 @@ product-family:
   - title: Dashboard sulla sostenibilità
     icon: "./media/icon-sustainability.png"
     url: https://docs.netapp.com/us-en/active-iq/concept_understand_sustainability_dashboard.html
-    summary: Analizza la sostenibilità del tuo sistema storage.
-    tags: all,health
+    summary: Analizza la sostenibilità dei tuoi sistemi storage.
+    tags: all,governance
   - title: Tiering (Cloud Tiering)
     icon: "./media/icon-tiering.png"
     url: https://docs.netapp.com/us-en/bluexp-tiering/index.html
