@@ -251,4 +251,6 @@
   <block id="d889e6e7cc4c5509ab5b37f8fc894e46" category="list-text">Nella parte superiore destra della console BlueXP, selezionare l'icona della Guida e selezionare *supporto*.</block>
   <block id="c0e0b7ff0de9558404e9b77ece42948a" category="list-text">Selezionare *Gestione NSS &gt; Aggiungi account NSS*.</block>
   <block id="85b9386ed443776127e099931d73448a" category="list-text">Quando richiesto, selezionare *continua* per essere reindirizzato a una pagina di accesso Microsoft.</block>
+  <block id="645a84975202e30700b572b49a5ee29d" category="sidebar">Disaster recovery</block>
+  <block id="c7b1fe992423d57d0e492585ff631c02" category="sidebar">Proteggi i workload VMware on-premise utilizzando VMware Cloud su Amazon FSX per ONTAP come sito di disaster recovery.</block>
 </blocks>

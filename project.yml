@@ -121,6 +121,12 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-digital-wallet/index.html
     tags: all,governance
     summary: Gestire e monitorare le licenze e le sottoscrizioni.
+  - title: Disaster recovery
+    icon: "./media/icon-disaster-recovery.png"
+    url: https://docs.netapp.com/us-en/bluexp-disaster-recovery/index.html
+    tags: all, protection
+    summary: Proteggi i workload VMware on-premise utilizzando VMware Cloud su Amazon
+      FSX per ONTAP come sito di disaster recovery.
   - title: Sistemi e-Series
     icon: "./media/icon-e-series.png"
     url: https://docs.netapp.com/us-en/bluexp-e-series/index.html
