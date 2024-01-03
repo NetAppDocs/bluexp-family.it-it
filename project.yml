@@ -65,12 +65,12 @@ product-family:
     tags: all,storage,aws
   - title: API
     icon: "./media/icon-api.png"
-    url: "../bluexp-automation/index.html"
+    url: https://docs.netapp.com/us-en/bluexp-automation/index.html
     summary: Amministrare a livello di programmazione le risorse basate sul cloud.
     tags: all,api
   - title: Catalogo di automazione
     icon: "./media/icon-api.png"
-    url: "../netapp-automation/solutions/bac-overview.html"
+    url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
     summary: Utilizza soluzioni basate su script per automatizzare l'installazione
       e l'integrazione di prodotti e servizi NetApp.
     tags: all,governance
