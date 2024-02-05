@@ -1,0 +1,202 @@
+---
+product-family:
+  title: Documentazione BlueXP
+  lead: NetApp BlueXP fornisce alla tua organizzazione un singolo piano di controllo
+    per creare, proteggere e gestire i dati in tutti gli ambienti on-premise e cloud.
+    Consulta i documenti per area di prodotto o utilizza la ricerca qui sopra per
+    trovare il contenuto in qualsiasi punto dei documenti BlueXP.
+  summary: NetApp BlueXP fornisce alla tua organizzazione un singolo piano di controllo
+    per creare, proteggere e gestire i dati in tutti gli ambienti on-premise e cloud.
+    Consulta i documenti per area di prodotto o utilizza la ricerca qui sopra per
+    trovare il contenuto in qualsiasi punto dei documenti BlueXP.
+  sidebarlinks:
+  - title: Tutto
+    tags: all
+    class: active
+  - title: API
+    tags: api
+  - title: Connettori e account
+    tags: admin
+  - title: Interni
+    tags: extension
+  - title: Governance
+    tags: governance
+  - title: Salute
+    tags: health
+  - title: Mobilità
+    tags: mobility
+  - title: Protezione
+    tags: protection
+  - title: Storage
+    tags: storage
+  tiles:
+  - title: Installazione e amministrazione
+    icon: "./media/icon-admin.png"
+    url: "../bluexp-setup-admin/index.html"
+    summary: Scopri come iniziare a utilizzare BlueXP e amministrare connettori, account
+      e altro ancora.
+    tags: all,admin
+  - title: Note di rilascio
+    icon: "./media/icon-docs.png"
+    url: "../bluexp-relnotes/index.html"
+    summary: Scopri le novità di BlueXP.
+    tags: all
+  - title: Amazon FSX per NetApp ONTAP
+    icon: "./media/icon-fsx.png"
+    url: "../bluexp-fsx-ontap/index.html"
+    summary: Utilizza le funzionalità complete di ONTAP come servizio nativo gestito
+      da AWS.
+    tags: all,storage,aws
+  - title: Storage Amazon S3
+    icon: "./media/icon-s3.png"
+    url: "../bluexp-s3-storage/index.html"
+    summary: Scopri e gestisci i bucket Amazon S3 nei tuoi account AWS.
+    tags: all,storage,aws
+  - title: API
+    icon: "./media/icon-api.png"
+    url: https://docs.netapp.com/us-en/bluexp-automation/index.html
+    summary: Amministrare a livello di programmazione le risorse basate sul cloud.
+    tags: all,api
+  - title: Catalogo di automazione
+    icon: "./media/icon-api.png"
+    url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
+    summary: Utilizza soluzioni basate su script per automatizzare l'installazione
+      e l'integrazione di prodotti e servizi NetApp.
+    tags: all,governance
+  - title: Storage Azure Blob
+    icon: "./media/icon-azure-blob.png"
+    url: "../bluexp-blob-storage/index.html"
+    summary: Scopri e gestisci lo storage Azure Blob nelle tue sottoscrizioni Azure.
+    tags: all,storage
+  - title: Azure NetApp Files
+    icon: "./media/icon-anf.png"
+    url: "../bluexp-azure-netapp-files/index.html"
+    summary: Servizio di file storage dalle performance elevate per le principali
+      applicazioni aziendali.
+    tags: all,storage,azure
+  - title: Backup e recovery
+    icon: "./media/icon-backup.png"
+    url: "../bluexp-backup-recovery/index.html"
+    summary: Backup e ripristino di dati on-premise e cloud.
+    tags: all,aws,azure,gcp,protection
+  - title: Classificazione
+    icon: "./media/icon-data-sense.png"
+    url: "../bluexp-classification/index.html"
+    summary: Prepara la privacy dei dati delle applicazioni e degli ambienti cloud.
+    tags: all,governance,aws,azure,gcp
+  - title: Operazioni cloud
+    icon: "./media/icon-compute.png"
+    url: "../bluexp-cloud-ops/index.html"
+    summary: Ottieni visibilità sulla spesa per il cloud computing e identifica i
+      potenziali risparmi.
+    tags: all,aws,extension
+  - title: Cloud Volumes ONTAP
+    icon: "./media/icon-cvo.png"
+    url: "../bluexp-cloud-volumes-ontap/index.html"
+    summary: Rendi il tuo cloud storage più conveniente, intelligente, conforme e
+      sicuro.
+    tags: all,storage,aws,azure,gcp
+  - title: Cloud Volumes Service per Google Cloud
+    icon: "./media/icon-cvs.png"
+    url: "../bluexp-cloud-volumes-service-gcp/index.html"
+    summary: Proteggi, proteggi e accelera il tuo storage di file.
+    tags: all,storage,gcp
+  - title: Copia e sincronizzazione
+    icon: "./media/icon-sync.png"
+    url: "../bluexp-copy-sync/index.html"
+    summary: Sincronizza i dati tra data store on-premise e cloud.
+    tags: all,aws,azure,gcp,mobility
+  - title: Consulente digitale (Active IQ)
+    icon: "./media/icon-activeiq.png"
+    url: "../active-iq/index.html"
+    tags: all,health
+    summary: Intelligence attuabile per uno stato di salute ottimale dello storage.
+  - title: Portafoglio digitale
+    icon: "./media/digital-wallet.png"
+    url: "../bluexp-digital-wallet/index.html"
+    tags: all,governance
+    summary: Gestire e monitorare le licenze e le sottoscrizioni.
+  - title: Disaster recovery
+    icon: "./media/icon-disaster-recovery.png"
+    url: "../bluexp-disaster-recovery/index.html"
+    tags: all,protection
+    summary: Proteggi i workload VMware on-premise utilizzando VMware Cloud su Amazon
+      FSX per ONTAP come sito di disaster recovery.
+  - title: Sistemi e-Series
+    icon: "./media/icon-e-series.png"
+    url: "../bluexp-e-series/index.html"
+    summary: Scopri i sistemi e-Series per una vista completa dei dati nel tuo multicloud
+      ibrido.
+    tags: all,storage
+  - title: Efficienza economica
+    icon: "./media/icon-economic-efficiency.png"
+    url: "../bluexp-economic-efficiency/index.html"
+    summary: Identificare i cluster con capacità bassa attuale o prevista e implementare
+      il tiering dei dati o consigli aggiuntivi sulla capacità.
+    tags: all,governance
+  - title: Caching edge
+    icon: "./media/icon-cache.png"
+    url: "../bluexp-edge-caching/index.html"
+    summary: Condivisione dei file globali in tempo reale per la forza lavoro distribuita.
+    tags: all,mobility,aws,azure,gcp
+  - title: Storage Google Cloud
+    icon: "./media/icon-google-cloud-storage.png"
+    url: "../bluexp-google-cloud-storage/index.html"
+    summary: Scopri e gestisci i bucket Cloud Storage nel tuo account Google.
+    tags: all,storage
+  - title: Cluster Kubernetes
+    icon: "./media/icon-kubernetes.png"
+    url: "../bluexp-kubernetes/index.html"
+    summary: Gestione avanzata dei dati dei cluster Kubernetes nel cloud ibrido.
+    tags: all,storage,aws,azure
+  - title: Report sulla migrazione
+    icon: "./media/icon-reports.png"
+    url: "../bluexp-reports/index.html"
+    summary: Identifica il numero di file, la profondità e la larghezza degli alberi
+      dei file system, i file più grandi e molto altro nel tuo ambiente di storage.
+    tags: all,storage
+  - title: Cluster ONTAP on-premise
+    icon: "./media/icon-onprem.png"
+    url: "../bluexp-ontap-onprem/index.html"
+    summary: Gestisci i tuoi sistemi NetApp AFF e FAS da BlueXP utilizzando Gestione
+      di sistema e i servizi dati di BlueXP.
+    tags: all,storage
+  - title: Resilienza operativa
+    icon: "./media/icon-op-resiliency.png"
+    url: "../bluexp-operational-resiliency/index.html"
+    summary: Implementazione di soluzioni automatizzate per il rischio di configurazione
+      del firmware e del software per mantenere lo stato di salute dei cluster ONTAP.
+    tags: all,health
+  - title: Risoluzione dei problemi
+    icon: "./media/icon-app-template.png"
+    url: "../bluexp-remediation/index.html"
+    summary: Automatizza le azioni in BlueXP per accelerare il provisioning ed eliminare
+      il lavoro manuale.
+    tags: all,health
+  - title: Replica
+    icon: "./media/icon-replication.png"
+    url: "../bluexp-replication/index.html"
+    summary: Replica dei dati tra sistemi storage per supportare backup e disaster
+      recovery.
+    tags: all,protection
+  - title: StorageGRID
+    icon: "./media/icon-storagegrid.png"
+    url: "../bluexp-storagegrid/index.html"
+    summary: Scopri e gestisci i tuoi sistemi StorageGRID.
+    tags: all,storage
+  - title: Dashboard sulla sostenibilità
+    icon: "./media/icon-sustainability.png"
+    url: "../active-iq/learn_BlueXP_sustainability.html"
+    summary: Analizza la sostenibilità dei tuoi sistemi storage.
+    tags: all,governance
+  - title: Tiering
+    icon: "./media/icon-tiering.png"
+    url: "../bluexp-tiering/index.html"
+    summary: Estendi il tuo storage ONTAP on-premise al cloud.
+    tags: all,aws,azure,gcp,mobility
+  - title: Caching dei volumi
+    icon: "./media/icon-volume-caching.png"
+    url: "../bluexp-volume-caching/index.html"
+    summary: Creare un volume cache scrivibile per accelerare l'accesso ai dati o
+      trasferire il traffico dai volumi ad accesso elevato.
+    tags: all,mobility
