@@ -167,6 +167,12 @@ product-family:
     summary: Implementazione di soluzioni automatizzate per il rischio di configurazione
       del firmware e del software per mantenere lo stato di salute dei cluster ONTAP.
     tags: all,health
+  - title: Protezione ransomware
+    icon: "./media/icon-ransomware.png"
+    url: "../bluexp-ransomware-protection/index.html"
+    summary: Rileva le anomalie che potrebbero causare attacchi ransomware. Proteggi
+      e ripristina i carichi di lavoro.
+    tags: all,protection
   - title: Risoluzione dei problemi
     icon: "./media/icon-app-template.png"
     url: "../bluexp-remediation/index.html"
