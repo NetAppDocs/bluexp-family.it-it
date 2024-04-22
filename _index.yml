@@ -173,12 +173,6 @@ product-family:
     summary: Rileva le anomalie che potrebbero causare attacchi ransomware. Proteggi
       e ripristina i carichi di lavoro.
     tags: all,protection
-  - title: Risoluzione dei problemi
-    icon: "./media/icon-app-template.png"
-    url: "../bluexp-remediation/index.html"
-    summary: Automatizza le azioni in BlueXP per accelerare il provisioning ed eliminare
-      il lavoro manuale.
-    tags: all,health
   - title: Replica
     icon: "./media/icon-replication.png"
     url: "../bluexp-replication/index.html"
