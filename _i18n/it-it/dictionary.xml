@@ -98,7 +98,6 @@
   <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">Tutta la documentazione BlueXP</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">Tutto</block>
   <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API</block>
-  <block id="8e5adb4723e04a1f9bf2ea7df2c5e684" category="sidebar">Connettori e account</block>
   <block id="5e2f5f3c24ae8c6ab3eca618826b0e23" category="sidebar">Interni</block>
   <block id="5a935787d6f091fc760443ab4c491465" category="sidebar">Governance</block>
   <block id="605669cab962bf944d99ce89cf9e58d9" category="sidebar">Salute</block>
@@ -106,7 +105,6 @@
   <block id="83f1d9ca1a0c4c2fc51a371c0d773f76" category="sidebar">Protezione</block>
   <block id="8c4aa541ee911e8d80451ef8cc304806" category="sidebar">Storage</block>
   <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">Installazione e amministrazione</block>
-  <block id="679d45f8d9939047ac9efb03e95c425c" category="sidebar">Scopri come iniziare a utilizzare BlueXP e amministrare connettori, account e altro ancora.</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Note di rilascio</block>
   <block id="800627e5502a4be1f5e84b9c5fdc990e" category="sidebar">Scopri le novità di BlueXP.</block>
   <block id="4d82a1ec1af02725042c8c785564ee7a" category="sidebar">Amazon FSX per NetApp ONTAP</block>
@@ -221,4 +219,9 @@
   <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">È necessario associare le credenziali del sito di supporto NetApp alla propria organizzazione BlueXP  per abilitare i seguenti flussi di lavoro chiave per Cloud Volumes ONTAP:</block>
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">L'associazione delle credenziali NSS all'organizzazione BlueXP  è diversa dall'account NSS associato a un accesso utente BlueXP .</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">Queste credenziali NSS sono associate all'ID organizzazione BlueXP  specifico dell'utente. Gli utenti che appartengono all'organizzazione BlueXP  possono accedere a queste credenziali da *supporto &gt; Gestione NSS*.</block>
+  <block id="9dab50acf79061ac1750da73c6252b67" category="sidebar">Connettori e IAM</block>
+  <block id="423e555c5ec3885f2bb5d9d2d6627f63" category="sidebar">Monitoraggio</block>
+  <block id="a0174df45f2d1f45e08cc7d39acff81f" category="sidebar">Scopri come iniziare a utilizzare BlueXP  e amministrare la gestione di identità e accessi, i connettori e altro ancora.</block>
+  <block id="df583ae7ba964fd4806b55904da81813" category="sidebar">Avvisi</block>
+  <block id="2d5c8aeda2ab373d4a288e3bb0e951b0" category="sidebar">Visualizza i problemi di capacità, disponibilità, performance, protezione e sicurezza del tuo ambiente ONTAP.</block>
 </blocks>
