@@ -129,7 +129,6 @@
   <block id="723ffd15eb7b4453afd0fa0af42c04c3" category="sidebar">Efficienza economica</block>
   <block id="068ff21264880d35ad4153fad90e3828" category="sidebar">Identificare i cluster con capacità bassa attuale o prevista e implementare il tiering dei dati o consigli aggiuntivi sulla capacità.</block>
   <block id="6c253a8aff5dfa835a77545b3006abc8" category="sidebar">Cluster ONTAP on-premise</block>
-  <block id="19874606c485ce682436c45308e50186" category="sidebar">Gestisci i tuoi sistemi NetApp AFF e FAS da BlueXP utilizzando Gestione di sistema e i servizi dati di BlueXP.</block>
   <block id="efc0c4f71709b261c273fb935757cfae" category="sidebar">Resilienza operativa</block>
   <block id="00ac035a0893138aed2f04da8c8223d3" category="sidebar">Implementazione di soluzioni automatizzate per il rischio di configurazione del firmware e del software per mantenere lo stato di salute dei cluster ONTAP.</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">Replica</block>
@@ -225,4 +224,5 @@
   <block id="2d5c8aeda2ab373d4a288e3bb0e951b0" category="sidebar">Visualizza i problemi di capacità, disponibilità, performance, protezione e sicurezza del tuo ambiente ONTAP.</block>
   <block id="fe4a785cf549e843e958f443c4baf0fe" category="sidebar">Connettori</block>
   <block id="22bdd8c71cc34511ea88881e20f7ca21" category="sidebar">Gestione delle identità e degli accessi</block>
+  <block id="795fd87bfd8c421238aba4220620e3bd" category="sidebar">Gestisci i tuoi cluster ONTAP on-premise da BlueXP  utilizzando System Manager e i servizi dati di BlueXP .</block>
 </blocks>
