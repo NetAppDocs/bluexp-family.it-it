@@ -225,4 +225,6 @@
   <block id="fe4a785cf549e843e958f443c4baf0fe" category="sidebar">Connettori</block>
   <block id="22bdd8c71cc34511ea88881e20f7ca21" category="sidebar">Gestione delle identità e degli accessi</block>
   <block id="795fd87bfd8c421238aba4220620e3bd" category="sidebar">Gestisci i tuoi cluster ONTAP on-premise da BlueXP  utilizzando System Manager e i servizi dati di BlueXP .</block>
+  <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">Carichi di lavoro</block>
+  <block id="c2f4c01ba651c0bc1e3f5840352d4723" category="sidebar">Progetta, configura e utilizza i carichi di lavoro chiave con Amazon FSX per NetApp ONTAP.</block>
 </blocks>

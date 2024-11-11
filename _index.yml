@@ -33,6 +33,8 @@ product-family:
     tags: protection
   - title: Storage
     tags: storage
+  - title: Carichi di lavoro
+    tags: workloads
   tiles:
   - title: Installazione e amministrazione
     icon: "./media/icon-admin.png"
@@ -200,3 +202,9 @@ product-family:
     summary: Creare un volume cache scrivibile per accelerare l'accesso ai dati o
       trasferire il traffico dai volumi ad accesso elevato.
     tags: all,mobility
+  - title: Carichi di lavoro
+    icon: "./media/icon-workloads.png"
+    url: "../workload-family"
+    summary: Progetta, configura e utilizza i carichi di lavoro chiave con Amazon
+      FSX per NetApp ONTAP.
+    tags: all,workloads
