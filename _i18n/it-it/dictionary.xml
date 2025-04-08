@@ -112,10 +112,8 @@
   <block id="d79294e72dc3584cc12c98a7a931315d" category="sidebar">Storage Amazon S3</block>
   <block id="4b271c8c28b8ccb8e638e54186acac01" category="sidebar">Scopri e gestisci i bucket Amazon S3 nei tuoi account AWS.</block>
   <block id="11ab9ad674d9803df9eb747b060ea178" category="sidebar">Amministrare a livello di programmazione le risorse basate sul cloud.</block>
-  <block id="7f0915fd413dcc718e35e39d644d92ac" category="sidebar">Servizio di file storage dalle performance elevate per le principali applicazioni aziendali.</block>
   <block id="a3460dd01b0f0c32632246bf209e730f" category="sidebar">Backup e ripristino di dati on-premise e cloud.</block>
   <block id="2090f2d846793f153b9266c648b079ef" category="sidebar">Prepara la privacy dei dati delle applicazioni e degli ambienti cloud.</block>
-  <block id="a17d9dd4943af64ba04db4529621baf0" category="sidebar">Ottieni visibilità sulla spesa per il cloud computing e identifica i potenziali risparmi.</block>
   <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="sidebar">Cloud Volumes ONTAP</block>
   <block id="1264ff6a809549b27ab6285b6ab793f2" category="sidebar">Rendi il tuo cloud storage più conveniente, intelligente, conforme e sicuro.</block>
   <block id="862d06f5b0779c31053bcadc07e8028b" category="sidebar">Proteggi, proteggi e accelera il tuo storage di file.</block>
@@ -201,7 +199,6 @@
   <block id="ce6ca783caae4b6e998ea6268a37dfc6" category="summary">NetApp BlueXP fornisce alla tua organizzazione un singolo piano di controllo per creare, proteggere e gestire i dati in tutti gli ambienti on-premise e cloud. Consulta i documenti per area di prodotto o utilizza la ricerca qui sopra per trovare il contenuto in qualsiasi punto dei documenti BlueXP.</block>
   <block id="be062cdcabbb3055334e8f19b4bdf378" category="sidebar">Backup e recovery</block>
   <block id="5c9335b28e6277ddbe0137f04e5e58a7" category="sidebar">Classificazione</block>
-  <block id="5b942e8f71976a7f4120006aa3ac54cc" category="sidebar">Operazioni cloud</block>
   <block id="e216b7a924341f796bca310d1d812baf" category="sidebar">Copia e sincronizzazione</block>
   <block id="337c62c6b6eb7319bae58701105e889c" category="sidebar">Tiering</block>
   <block id="7478f8f98c41fc2f5747e6f31892fe6f" category="sidebar">Protezione ransomware</block>
@@ -227,4 +224,5 @@
   <block id="795fd87bfd8c421238aba4220620e3bd" category="sidebar">Gestisci i tuoi cluster ONTAP on-premise da BlueXP  utilizzando System Manager e i servizi dati di BlueXP .</block>
   <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">Carichi di lavoro</block>
   <block id="c2f4c01ba651c0bc1e3f5840352d4723" category="sidebar">Progetta, configura e utilizza i carichi di lavoro chiave con Amazon FSX per NetApp ONTAP.</block>
+  <block id="6dcd21898198aef6fd1b4c762e770d69" category="sidebar">File storage service dalle performance elevate in Azure per le tue principali applicazioni di business.</block>
 </blocks>
