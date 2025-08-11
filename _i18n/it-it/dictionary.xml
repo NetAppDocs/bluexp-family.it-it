@@ -109,7 +109,6 @@
   <block id="d79294e72dc3584cc12c98a7a931315d" category="sidebar">Storage Amazon S3</block>
   <block id="4b271c8c28b8ccb8e638e54186acac01" category="sidebar">Scopri e gestisci i bucket Amazon S3 nei tuoi account AWS.</block>
   <block id="11ab9ad674d9803df9eb747b060ea178" category="sidebar">Amministrare a livello di programmazione le risorse basate sul cloud.</block>
-  <block id="a3460dd01b0f0c32632246bf209e730f" category="sidebar">Backup e ripristino di dati on-premise e cloud.</block>
   <block id="2090f2d846793f153b9266c648b079ef" category="sidebar">Prepara la privacy dei dati delle applicazioni e degli ambienti cloud.</block>
   <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="sidebar">Cloud Volumes ONTAP</block>
   <block id="1264ff6a809549b27ab6285b6ab793f2" category="sidebar">Rendi il tuo cloud storage più conveniente, intelligente, conforme e sicuro.</block>
@@ -124,8 +123,6 @@
   <block id="723ffd15eb7b4453afd0fa0af42c04c3" category="sidebar">Efficienza economica</block>
   <block id="068ff21264880d35ad4153fad90e3828" category="sidebar">Identificare i cluster con capacità bassa attuale o prevista e implementare il tiering dei dati o consigli aggiuntivi sulla capacità.</block>
   <block id="6c253a8aff5dfa835a77545b3006abc8" category="sidebar">Cluster ONTAP on-premise</block>
-  <block id="efc0c4f71709b261c273fb935757cfae" category="sidebar">Resilienza operativa</block>
-  <block id="00ac035a0893138aed2f04da8c8223d3" category="sidebar">Implementazione di soluzioni automatizzate per il rischio di configurazione del firmware e del software per mantenere lo stato di salute dei cluster ONTAP.</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">Replica</block>
   <block id="852e5aa5bab2b81469e97f26b6e2b7f3" category="sidebar">Replica dei dati tra sistemi storage per supportare backup e disaster recovery.</block>
   <block id="392d70ca39f31f10bd637936769788df" category="sidebar">StorageGRID</block>
@@ -226,4 +223,5 @@
   <block id="bbbc9b55f08bfe80f146b5207bdb7728" category="paragraph">NetApp fornisce supporto per BlueXP e i suoi servizi cloud in diversi modi. Sono disponibili ampie opzioni di supporto autonomo gratuite 24 ore su 24, 7 giorni su 7, come articoli della knowledge base (KB) e un forum della community. La registrazione al supporto include supporto tecnico remoto tramite ticket web.</block>
   <block id="759d32287efdf88cd8ac71dccc0ecf8d" category="inline-image-macro">Uno screenshot che mostra il numero di serie dell'account, una casella di controllo verde e il testo Registrato per supporto.</block>
   <block id="4c441b388bebcddf8c08fb782095b864" category="paragraph"><block ref="4c441b388bebcddf8c08fb782095b864" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="4102ee4dc04d405e046bf0c00b9f15a7" category="sidebar">Esegui il backup e il ripristino dei dati nel cloud e in locale.</block>
 </blocks>

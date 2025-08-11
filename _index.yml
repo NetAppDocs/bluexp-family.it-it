@@ -87,7 +87,7 @@ product-family:
   - title: Backup e recovery
     icon: "./media/icon-backup.png"
     url: "../bluexp-backup-recovery/index.html"
-    summary: Backup e ripristino di dati on-premise e cloud.
+    summary: Esegui il backup e il ripristino dei dati nel cloud e in locale.
     tags: all,aws,azure,gcp,protection
   - title: Classificazione
     icon: "./media/icon-data-sense.png"
@@ -154,12 +154,6 @@ product-family:
     summary: Gestisci i tuoi cluster ONTAP on-premise da BlueXP  utilizzando System
       Manager e i servizi dati di BlueXP .
     tags: all,storage
-  - title: Resilienza operativa
-    icon: "./media/icon-op-resiliency.png"
-    url: "../bluexp-operational-resiliency/index.html"
-    summary: Implementazione di soluzioni automatizzate per il rischio di configurazione
-      del firmware e del software per mantenere lo stato di salute dei cluster ONTAP.
-    tags: all,health
   - title: Protezione ransomware
     icon: "./media/icon-ransomware.png"
     url: "../bluexp-ransomware-protection/index.html"
